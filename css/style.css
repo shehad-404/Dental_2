@@ -725,7 +725,7 @@ transition: .4s all ease-in-out;
     display: block !important;
 }
 .brand_carousel .owl-nav .owl-prev span, .brand_carousel .owl-nav .owl-next span {
-    top: 35%;
+        top: 28%;
 }
 
 /* brand section  ends*/
