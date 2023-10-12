@@ -368,6 +368,24 @@ font-weight: 400;
 
 margin-bottom: 10px;
 }
+
+.doctors_title div img{
+    opacity: 0;
+    transition: .4s all ease-in-out;
+}
+.doctors_section:hover .doctors_title div img{
+    opacity: 1;
+}
+.service_section:hover .doctors_title div img{
+    opacity: 1;
+}
+.pricing_section:hover .doctors_title div img{
+    opacity: 1;
+}
+.brand_section:hover .doctors_title div img{
+    opacity: 1;
+}
+
 .doctors_title p{
 
 margin-top: 10px;
